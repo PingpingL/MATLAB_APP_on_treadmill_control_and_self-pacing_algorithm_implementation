@@ -4,5 +4,6 @@ Because this is an on-going research, I cannot provide more details. But I inclu
 forwardKF.m shows how can I implement kalman filter in our algorithm.
 plot_steps.m is a file to process experiment data and plot.
 
-[![Watch video](https://markdown-videos.deta.dev/youtube/WSWWkngDGDg)](https://youtu.be/WSWWkngDGDg)
+[![Watch video](https://img.youtube.com/vi/WSWWkngDGDg/0.jpg)](https://youtu.be/WSWWkngDGDg)
+
 
